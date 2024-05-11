@@ -1,5 +1,5 @@
 # Admininistrador de dojos de Karate
-
+# ESTE SOFTWARE ESTA DEPRECADO, FUE CREADO CON JAVA 1.7
 Programador: Luis Eduardo Fagúndez
 
 Lenguajes utilizados: Java SE
